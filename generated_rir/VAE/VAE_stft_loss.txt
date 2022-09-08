@@ -1,0 +1,3 @@
+VAE loss in 21 generated STFTs
+MSE Log Magnitude: 0.004516855858725503
+MSE Phase: 0.034349964187743956
