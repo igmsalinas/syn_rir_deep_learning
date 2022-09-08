@@ -1,0 +1,7 @@
+VAE losses at last epoch(111) of training
+Total Loss: 1331.1542318557326
+Reconstruction Loss: 0.012929254211485386
+KL Loss: 38.229156494140625
+Total Validation Loss: 1481.8900528628144
+Reconstruction Validation loss: 0.014438130892813206
+KL Validation loss: 38.07661437988281

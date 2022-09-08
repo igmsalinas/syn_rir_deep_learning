@@ -1,0 +1,3 @@
+AE losses at last epoch(1000) of training
+Loss: 0.01515000899249584
+Validation loss: 0.013416932372392571

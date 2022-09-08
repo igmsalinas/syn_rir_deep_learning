@@ -1,0 +1,3 @@
+ResAE losses at last epoch(111) of training
+Loss: 0.016256465341167755
+Validation loss: 0.020886524984318196
