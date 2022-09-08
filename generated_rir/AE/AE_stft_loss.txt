@@ -1,0 +1,3 @@
+AE loss in 21 generated STFTs
+MSE Log Magnitude: 0.004030085204735587
+MSE Phase: 0.03342527097628188
