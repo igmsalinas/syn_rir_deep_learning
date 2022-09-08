@@ -1,0 +1,3 @@
+ResAE loss in 21 generated STFTs
+MSE Log Magnitude: 0.026639509025249686
+MSE Phase: 0.07150846020768725
